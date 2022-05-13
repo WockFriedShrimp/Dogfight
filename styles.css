@@ -1,0 +1,74 @@
+img{
+width:800px;
+}
+
+
+.chase-scene{
+    display:flex;
+	width:800px;
+    justify-content:center;
+}
+
+.bad-choice{
+display:none;
+
+}
+
+.moral-choice-result-1{
+    display:none;
+}
+
+
+
+.allies-win{
+    display:none;
+}
+
+.enemy-win{
+    display:none;
+}
+
+.dang{
+display:none;
+}
+
+.follow-orders{
+display:none;
+}
+
+
+.flee{
+display:none;
+}
+
+.fire{
+display:none;
+}
+
+.fired{
+display:none;
+}
+
+.dont-fire{
+display:none;
+}
+
+.miss{
+display:none;
+}
+
+.escape{
+display:none;
+}
+
+.fire-2{
+display:none;
+}
+
+.nice-job{
+display:none;
+}
+
+.oops{
+display:none;
+}
